@@ -80,10 +80,10 @@ We follow [Angular's commit message guidlines][commit]. This leads to more reada
 Once again, thank you for joining our journey and good luck contributing :pray:
 
 
-[coc]: https://github.com/dailynowco/.github/blob/master/CODE_OF_CONDUCT.md
-[projects]: https://github.com/dailynowco/daily#projects
+[coc]: https://github.com/dailydotdev/.github/blob/master/CODE_OF_CONDUCT.md
+[projects]: https://github.com/dailydotdev/daily#projects
 [submit-issue]: #submitting-an-issue
 [submit-pr]: #submitting-a-pull-request
-[cla]: https://cla-assistant.io/dailynowco/daily
+[cla]: https://cla-assistant.io/dailydotdev/daily
 [style]: https://github.com/airbnb/javascript
 [commit]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines
