@@ -86,4 +86,4 @@ Once again, thank you for joining our journey and good luck contributing :pray:
 [submit-pr]: #submitting-a-pull-request
 [cla]: https://cla-assistant.io/dailydotdev/daily
 [style]: https://github.com/airbnb/javascript
-[commit]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines
+[commit]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
