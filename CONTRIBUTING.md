@@ -1,7 +1,7 @@
 # Contributing to Daily
 
-:wave: Hi there! The Daily team is excited that you are reading this and willing to contribute.
-No need to think big, even a typo fix might save our day and make you a hero. 
+:wave: Hi there! The Daily team is excited that you are reading this and are willing to contribute.
+No need to think big. Even a typo fix might save our day and make you a hero. 
 Every contribution counts! :fire:
 
 
@@ -13,9 +13,9 @@ Please take your time to read and follow our [Code of Conduct][coc].
 
 ## Where to Contribute?
 
-Daily is made out of several repositories, it helps us keep the different services decoupled and deliver quickly new features.
+Daily is made out of several repositories. It helps us keep the different services decoupled and deliver new features quickly.
 A full list of these repositories can be found [here][projects] with a short explanation about each one.
-If you are still not sure where is the right place to contribute, ask here by [submitting an issue][submit-issue].
+If you are still not sure where the right place is to contribute, ask here by [submitting an issue][submit-issue].
 
 
 ## Found a Bug?
@@ -25,15 +25,15 @@ If you are really into it, [submit a Pull Request][submit-pr] with your fix, we 
 
 ## Documentation Never Ends
 
-When it comes to documentation there is also room for improvement. Together we can make sure everything is up-to-date and nothing is missing.
+When it comes to documentation, there is also room for improvement. Together, we can make sure everything is up-to-date and nothing is missing.
 You can feel free to [submit a Pull Request][submit-pr] with your documentation changes or even just [submit an issue][submit-issue].
 
 
 ## Have a Great Idea?
 
-Feel like you know what feature is missing, share your thoughts with us by [submitting an issue][submit-issue].
-Do you Want to make sure your feature is implemented? submit an issue with your implementation proposal.
-This will allow us to prevent duplication of work, discuss the details of the implementation and even provide design if necessary.
+Feel like you know what feature is missing? Share your thoughts with us by [submitting an issue][submit-issue].
+Do you want to make sure your feature is implemented? Submit an issue with your implementation proposal.
+This will allow us to prevent duplication of work, discuss the details of the implementation and even provide designs, if necessary.
 Discussing your proposal will make sure that your work will be accepted into the project.
 
 
@@ -47,9 +47,9 @@ Please provide as many details as possible so we can act as soon as possible.
 
 ### Submitting a Pull Request
 
-Before submitting a pull request consider the following guidelines:
+Before submitting a pull request, consider the following guidelines:
 
-1. To prevent duplication of work, please search for existing PR (open or closed) that relates to yours.
+1. To prevent duplication of work, please search for an existing PR (open or closed) that relates to yours.
 1. Make sure there is an issue describing your submission, whether it is a bug fix or a feature. Discussing the issue upfront will make the review process much faster.
 1. Please sign our [Contributor License Agreement (CLA)][cla]. Unfortunately, we cannot accept any contribution without this. Make sure you sign and contribute with the same GitHub account.
 1. Make sure your pull request is addressing only a single concern.
@@ -58,7 +58,7 @@ How to submit a pull request?
 
 1. Fork the relevant repository.
 1. Check out a topic branch for your submission.
-1. Apply your work there, it's fine to have multiple commits. We will make sure to squash it before merging.
+1. Apply your work there. It's fine to have multiple commits. We will make sure to squash it before merging.
 1. Make sure to add appropriate tests which cover your work.
 1. Follow our [Coding Rules](#coding-rules).
 1. Run the test suite of the repository.
