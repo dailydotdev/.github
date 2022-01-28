@@ -54,7 +54,7 @@ Before submitting a pull request, consider the following guidelines:
 1. Please sign our [Contributor License Agreement (CLA)][cla]. Unfortunately, we cannot accept any contribution without this. Make sure you sign and contribute with the same GitHub account.
 1. Make sure your pull request is addressing only a single concern.
  
-How to submit a pull request?
+ ** How to submit a pull request? **
 
 1. Fork the relevant repository.
 1. Check out a topic branch for your submission.
