@@ -87,3 +87,5 @@ Once again, thank you for joining our journey and good luck contributing :pray:
 [cla]: https://cla-assistant.io/dailydotdev/daily
 [style]: https://github.com/airbnb/javascript
 [commit]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
+[CONTRIBUTING.md](https://github.com/dailydotdev/.github/files/12267544/CONTRIBUTING.md)
+
