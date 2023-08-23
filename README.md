@@ -1,0 +1,2 @@
+# .github
+default organization docs
